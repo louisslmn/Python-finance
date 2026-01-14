@@ -13,7 +13,7 @@ Analyse d’un portefeuille d’actifs financiers à partir de données historiq
 Le projet inclut le calcul des rendements, de la volatilité, des corrélations, ainsi qu’une optimisation de portefeuille de type moyenne-variance.  
 Les résultats sont présentés à l’aide de visualisations claires permettant d’interpréter le compromis rendement-risque.
 
-➡️ Dépôt : 
+➡️ Dépôt : [portefeuille-optimisation](https://github.com/louisslmn/portefeuille-optimisation)
 
 ---
 
@@ -21,7 +21,7 @@ Les résultats sont présentés à l’aide de visualisations claires permettant
 Valorisation d’options européennes à l’aide du modèle analytique de Black-Scholes et de simulations de Monte Carlo.  
 Le projet compare les deux approches, étudie la convergence des simulations et analyse la sensibilité du prix aux paramètres du modèle.
 
-➡️ Dépôt : 
+➡️ Dépôt : [pricing-options](https://github.com/louisslmn/pricing-options)
 
 ---
 
@@ -29,7 +29,7 @@ Le projet compare les deux approches, étudie la convergence des simulations et 
 Analyse financière d’entreprises à partir de données comptables et boursières, complétée par la construction d’un score intégrant des critères extra-financiers (ESG).  
 Le projet vise à relier performance financière, structure de l’entreprise et dimensions non financières.
 
-➡️ Dépôt : 
+➡️ Dépôt : [analyse-entreprise](https://github.com/louisslmn/analyse-entreprise)
 
 ---
 
